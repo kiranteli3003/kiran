@@ -1,0 +1,18 @@
+package utility;
+
+public interface CommonStaticStrings {
+    String FIRST_NAME = "FIRST_NAME";
+    String LAST_NAME = "LAST_NAME";
+    String MOBILE_NUMBER = "MOBILE_NUMBER";
+    String EMAIL = "EMAIL";
+    String PRODUCT_NAME = "PRODUCT_NAME";
+    String PRODUCT_DESCRIPTION = "PRODUCT_DESCRIPTION";
+    String PRODUCT_URL = "PRODUCT_URL";
+    String PRODUCT_SKU ="PRODUCT_SKU";
+    String PRODUCT_IMAGE_URL= "PRODUCT_IMAGE_URL";
+    String PRODUCT_SIZE ="PRODUCT_SIZE";
+    String PRODUCT_PRICE= "PRODUCT_PRICE";
+    String PRODUCT_COLOR = "PRODUCT_COLOR";
+    String GO_LIVE_TITLE = "GO_LIVE_TITLE";
+    String GO_LIVE_DESCRIPTION = "GO_LIVE_DESCRIPTION";
+}
